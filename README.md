@@ -1,3 +1,3 @@
 # firstrepo.
-This is trial repositpory.
+This is a trial repository.
 Author - Ishita Jane Kujur.
